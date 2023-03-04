@@ -5,6 +5,7 @@
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Fabian918&theme=dark&mode=weekly)](https://git.io/streak-stats)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabian918&layout=compact)](https://github.com/fabian918/github-readme-stats)
 
 <!--
